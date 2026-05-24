@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🚀 Laravel 13 AI Agent with Gemini API
 
 A complete Laravel 13 AI Agent project using Gemini API, Laravel AI SDK, Tools, Memory, Streaming Chat, Product Search, and Docker setup.
@@ -351,3 +352,6 @@ This project is open-source and available under the MIT License.
 Built with ❤️ using Laravel 13, Laravel AI SDK, Gemini API, and Docker.
 
 ```
+=======
+# laravel-13-ai-agent
+>>>>>>> 42a7bae5c4bc94ba32925676fcecc7412dc6a1a6
